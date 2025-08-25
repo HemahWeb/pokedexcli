@@ -1,1 +1,1 @@
-A boot.dev project: Building a pokedex in Go using pokeapi. gator
+A boot.dev project: Building a pokedex in Go using pokeapi. 
